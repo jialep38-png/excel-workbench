@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.png binary
+public/vendor/xlsx.full.min.js -text
